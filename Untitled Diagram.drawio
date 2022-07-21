@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T02:28:23.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="zJtSHa8_5skMyc9NZMZX" type="github"><diagram id="VdFuhui56SN-tuhCWUFj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-21T03:02:35.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KfshmkQ_yLzrH0BVTNBP" version="20.0.3" type="github">
+  <diagram id="VdFuhui56SN-tuhCWUFj" name="Page-1">
+    <mxGraphModel dx="661" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;旧民主主义革命&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新民主主义革命&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;1.革命领导阶级：&lt;/b&gt;&lt;br&gt;A：资产阶级&lt;br&gt;B：无产阶级&lt;br&gt;&lt;b&gt;2.革命性质：&lt;/b&gt;&lt;br&gt;A：资产阶级革命&lt;br&gt;B：无产阶级革命&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bKIiJ-BI77lgnMUtKvCc-1" target="bKIiJ-BI77lgnMUtKvCc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="209.5" as="sourcePoint" />
+            <mxPoint x="300" y="209.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-10" value="五四运动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="240" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-13" value="" style="line;strokeWidth=2;direction=south;html=1;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-17">
+          <mxGeometry width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-14" value="A:资产阶级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-17">
+          <mxGeometry x="10" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-16" value="A:资产阶级革命" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-17">
+          <mxGeometry x="10" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="250" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-19" value="" style="line;strokeWidth=2;direction=south;html=1;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-18">
+          <mxGeometry width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-20" value="B：无产阶级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-18">
+          <mxGeometry x="10" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-21" value="A:资产阶级革命" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-18">
+          <mxGeometry x="10" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-23" value="决定革命性质的不是革命的领导者，而是革命的任务和对象。" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="460" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=0.009;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bKIiJ-BI77lgnMUtKvCc-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="180" as="sourcePoint" />
+            <mxPoint x="150" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;entryX=1.018;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bKIiJ-BI77lgnMUtKvCc-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="170" as="sourcePoint" />
+            <mxPoint x="400" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-26" value="&lt;b&gt;革命对象：&lt;/b&gt;反帝反封建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="185" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1" source="bKIiJ-BI77lgnMUtKvCc-26" target="bKIiJ-BI77lgnMUtKvCc-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="80" as="sourcePoint" />
+            <mxPoint x="280" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-28" value="&lt;b&gt;资产阶级民主革命&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="500" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-59">
+          <mxGeometry width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-30" value="&lt;b&gt;革命：&lt;/b&gt;制度的切换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-59">
+          <mxGeometry width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-56" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="bKIiJ-BI77lgnMUtKvCc-59">
+          <mxGeometry x="10" y="49.5" width="390" height="230.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-44" value="" style="group;align=left;fontSize=14;" vertex="1" connectable="0" parent="bKIiJ-BI77lgnMUtKvCc-56">
+          <mxGeometry x="16.951751301167537" y="184.5531561461794" width="373.0482486988325" height="45.9468438538206" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-45" value="资产阶级" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-44">
+          <mxGeometry x="-16.95673857721966" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-46" value="工人（无产阶级）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-44">
+          <mxGeometry x="142.6380900011509" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1.005;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="bKIiJ-BI77lgnMUtKvCc-44" source="bKIiJ-BI77lgnMUtKvCc-45" target="bKIiJ-BI77lgnMUtKvCc-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110.21880075192779" y="38.289036544850504" as="sourcePoint" />
+            <mxPoint x="178.0457550608064" y="-38.289036544850504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-55" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="bKIiJ-BI77lgnMUtKvCc-56">
+          <mxGeometry width="202.98213532142356" height="138.6063122923588" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-43" value="" style="group;align=left;fontSize=14;" vertex="1" connectable="0" parent="bKIiJ-BI77lgnMUtKvCc-55">
+          <mxGeometry width="202.98213532142356" height="45.9468438538206" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-31" value="奴隶主" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-43">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-33" value="奴隶" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-43">
+          <mxGeometry x="133.38826035407834" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1.005;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="bKIiJ-BI77lgnMUtKvCc-43" source="bKIiJ-BI77lgnMUtKvCc-31" target="bKIiJ-BI77lgnMUtKvCc-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75.39336454795732" y="38.289036544850504" as="sourcePoint" />
+            <mxPoint x="121.78928119285413" y="-38.289036544850504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-48" value="" style="group;align=left;fontSize=14;" vertex="1" connectable="0" parent="bKIiJ-BI77lgnMUtKvCc-55">
+          <mxGeometry x="10.972007314671544" y="92.6594684385382" width="192.010128006752" height="45.9468438538206" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-49" value="封建地主" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-48">
+          <mxGeometry x="-10.972007314671544" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-50" value="农民" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-48">
+          <mxGeometry x="126.17808411872275" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-51" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1.005;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;align=left;" edge="1" parent="bKIiJ-BI77lgnMUtKvCc-48" source="bKIiJ-BI77lgnMUtKvCc-49" target="bKIiJ-BI77lgnMUtKvCc-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.31804754536503" y="38.289036544850504" as="sourcePoint" />
+            <mxPoint x="115.20607680405121" y="-38.289036544850504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="bKIiJ-BI77lgnMUtKvCc-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="32.91228148697548" y="91.8936877076412" as="sourcePoint" />
+            <mxPoint x="32.91477512500154" y="45.9468438538206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="bKIiJ-BI77lgnMUtKvCc-56" source="bKIiJ-BI77lgnMUtKvCc-45" target="bKIiJ-BI77lgnMUtKvCc-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65.83204388802926" y="1072.0930232558142" as="sourcePoint" />
+            <mxPoint x="120.69208046138698" y="995.514950166113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-58" value="觉悟最高，推翻资本家不会变成资本家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FF0000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-56">
+          <mxGeometry x="100" y="160.5" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-63" value="&lt;font face=&quot;Times New Roman&quot;&gt;中国近代亟需一场反帝反封建的革命，这场革命理应由中国的资产阶级进行，所以被命名为资产阶级革命，但因为中国的资产阶级本身软弱，他们尝试过，但他们失败了。因此中国的事情变成了由中国的无产阶级去替资产阶级完成这场资产阶级革命，就是一套新式的民主主义革命，简称新民主主义革命。&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;align=left;verticalAlign=middle;spacingTop=2;spacing=3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="800" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="950" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-64" value="新民主&lt;br style=&quot;font-size: 16px;&quot;&gt;旧民主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-69">
+          <mxGeometry y="67.5" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-65" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-69">
+          <mxGeometry x="60" y="15" width="50" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-66" value="&lt;b&gt;区别&lt;/b&gt;：领导者，指导思想，前途，所属范围" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-69">
+          <mxGeometry x="110" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-67" value="&lt;b&gt;联系&lt;/b&gt;：革命的任务和对象，革命的性质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-69">
+          <mxGeometry x="110" y="150" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-68" value="所属范围：中国的革命与世界革命的关系，&lt;br style=&quot;font-size: 12px;&quot;&gt;中国在搞旧民主主义革命的时候，&lt;br style=&quot;font-size: 12px;&quot;&gt;世界在搞资产阶级革命。&lt;br style=&quot;font-size: 12px;&quot;&gt;中国在搞新民主主义革命的时候，&lt;br style=&quot;font-size: 12px;&quot;&gt;由于十月革命，世界在搞无产阶级革命，&lt;br style=&quot;font-size: 12px;&quot;&gt;因此新民主主义革命属于世界革命的一部分。&lt;br&gt;（高中生交学费听考研课。）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Times New Roman;fontColor=#FF0000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-69">
+          <mxGeometry x="300" y="30" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="1160" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-71" value="新民主&lt;br style=&quot;font-size: 16px;&quot;&gt;无社革" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-70">
+          <mxGeometry y="67.5" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-72" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-70">
+          <mxGeometry x="60" y="15" width="50" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-73" value="&lt;b&gt;区别&lt;/b&gt;：任务和对象，性质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-70">
+          <mxGeometry x="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKIiJ-BI77lgnMUtKvCc-74" value="&lt;b&gt;联系&lt;/b&gt;：领导者（无产阶级），指导思想（马克思主义）&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;前途，所属范围&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-70">
+          <mxGeometry x="110" y="117.5" width="410" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
