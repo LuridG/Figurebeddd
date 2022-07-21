@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T03:02:35.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KfshmkQ_yLzrH0BVTNBP" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T06:07:21.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hNt05wp_qGp8h1ZJbre6" version="20.0.3" type="github">
   <diagram id="VdFuhui56SN-tuhCWUFj" name="Page-1">
     <mxGraphModel dx="661" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -182,10 +182,10 @@
           <mxGeometry x="60" y="15" width="50" height="155" as="geometry" />
         </mxCell>
         <mxCell id="bKIiJ-BI77lgnMUtKvCc-73" value="&lt;b&gt;区别&lt;/b&gt;：任务和对象，性质" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-70">
-          <mxGeometry x="110" width="200" height="30" as="geometry" />
+          <mxGeometry x="110" y="15" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bKIiJ-BI77lgnMUtKvCc-74" value="&lt;b&gt;联系&lt;/b&gt;：领导者（无产阶级），指导思想（马克思主义）&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;前途，所属范围&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Times New Roman;fontColor=#030000;" vertex="1" parent="bKIiJ-BI77lgnMUtKvCc-70">
-          <mxGeometry x="110" y="117.5" width="410" height="50" as="geometry" />
+          <mxGeometry x="110" y="110" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
